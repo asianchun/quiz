@@ -4,16 +4,17 @@ Welcome to the Simple Quiz App! This project is a Java implementation of a basic
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [How to Play](#how-to-play)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
+## Screenshots
+![Alt Text](/screenshot1.png?raw=true "Optional Title")
 
-Check out the live demo of the Quiz [here](#).
+![Alt Text](/screenshot2.png?raw=true "Optional Title")
 
 ## Features
 
